@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>“test“</title>
+    <url>/post/13615.html</url>
+    <content><![CDATA[<img src="/post/13615.htm/undefined/touxiang.jpeg" class title="图片">
+]]></content>
+      <tags>
+        <tag>插入图片测试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>newblog</title>
-    <url>/2020/01/21/newblog/</url>
+    <url>/post/34753.html</url>
     <content><![CDATA[<p>阿斯顿好啦活动啦活动 啊睡觉的吧那就快点回来电话吧将撒贷记卡好的链接啊的dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>
 ]]></content>
       <tags>
@@ -11,7 +20,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2020/01/21/hello-world/</url>
+    <url>/post/16107.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
