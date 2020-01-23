@@ -12,7 +12,11 @@ date: 2020-01-23 11:38:23
 
 老妈做的腊肉
 
-![](https://raw.githubusercontent.com/SFY-123/PicBed/master/WechatIMG9.jpeg)
+![](https://raw.githubusercontent.com/SFY-123/PicBed/master/img/WechatIMG9.jpeg)
+
+
+
+
 
 
 
