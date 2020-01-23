@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test</title>
+    <url>/post/63534.html</url>
+    <content><![CDATA[<p><img src="/post/63534.htm/1.jpeg" alt="图片说明"></p>
+]]></content>
+      <tags>
+        <tag>每日一拍</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>photobysfy0002</title>
     <url>/post/36557.html</url>
     <content><![CDATA[<blockquote>
 <p>腊肉</p>
 </blockquote>
-<meta name="referrer" content="no-referrer"/>
+<meta name="referrer" content="no-referrer">
 
-<p><img src="https://raw.githubusercontent.com/Yumikosfy/picbed/master/img/WechatIMG10.jpeg" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/Yumikosfy/picbed/master/img/WechatIMG10.jpeg" alt></p>
 ]]></content>
       <tags>
         <tag>每日一拍</tag>
@@ -20,9 +29,15 @@
     <content><![CDATA[<blockquote>
 <p>乾州古城</p>
 </blockquote>
-<meta name="referrer" content="no-referrer"/>
+<meta name="referrer" content="no-referrer">
 
-<img src="https://raw.githubusercontent.com/Yumikosfy/picbed/master/img/WechatIMG8.jpeg" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/Yumikosfy/picbed/master/img/WechatIMG8.jpeg" style="zoom:80%;">
+
+
+
+
+
+
 
 
 
