@@ -1,7 +1,9 @@
 ---
 title: photosfy0006
+tags:
+  - 每日一拍
+abbrlink: 10490
 date: 2020-02-05 21:08:36
-tags: [每日一拍]
 ---
 
 > 自制烤肉
